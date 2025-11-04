@@ -1,7 +1,7 @@
 import { GoogleGenAI } from "@google/genai";
 import { NextResponse } from "next/server";
 
-const ai = new GoogleGenAI({ apiKey: 'AIzaSyDx_XckJsrbptDFxjUe6LoD5DeHqRVyujw' });
+const ai = new GoogleGenAI({ apiKey: '' });
 
 const chat = ai.chats.create({
    model: 'gemini-2.5-flash',
