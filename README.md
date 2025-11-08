@@ -1,8 +1,8 @@
-# CareerCompass: AI-Powered Career Guidance Platform
+# KaushalSetu: AI-Powered Career Guidance Platform
 
 ## Description
 
-CareerCompass is a comprehensive, AI-powered platform designed to provide personalized career guidance to students, primarily focusing on those in Class 10 and 12. It offers a structured approach to career exploration by integrating aptitude, interest, and values assessments with a rich database of career options, higher education pathways, government job opportunities, private sector roles, and scholarships. The platform leverages a conversational AI chatbot to deliver tailored advice and aims to empower students to make informed decisions about their future, promoting enrollment in suitable educational programs and government colleges.
+KaushalSetu is a comprehensive, AI-powered platform designed to provide personalized career guidance to students, primarily focusing on those in Class 10 and 12. It offers a structured approach to career exploration by integrating aptitude, interest, and values assessments with a rich database of career options, higher education pathways, government job opportunities, private sector roles, and scholarships. The platform leverages a conversational AI chatbot to deliver tailored advice and aims to empower students to make informed decisions about their future, promoting enrollment in suitable educational programs and government colleges.
 
 ## Features
 
